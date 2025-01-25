@@ -1,1 +1,2 @@
 primera línea de texto. Aprendo a usar git
+segunda línea de texto.
