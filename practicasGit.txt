@@ -4,3 +4,4 @@ tercera línea de texto. vamos a encargarnos de hacern una nueva rama, llamala d
 Excelente has creado con exito una nueva rama. ahora escribe en ella dos lineas mas una por una y aplica commits.
 Esta es la segunda línea que hago en la rama dev. vamos escribe una más.
 tercera línea que hago en la rama dev. Ahora vamos a probocar un conflicto en la segunda línea de main.
+provando hacer push sin hacer antes fetch.
