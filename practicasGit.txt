@@ -1,3 +1,4 @@
 primera línea de texto. Aprendo a usar git
 segunda línea de texto.
 tercera línea de texto. vamos a encargarnos de hacern una nueva rama, llamala dev
+Excelente has creado con exito una nueva rama. ahora escribe en ella dos lineas mas una por una y aplica commits.
