@@ -16,5 +16,4 @@ provando nuevamente.
 
 Ahora voy a modificar el fichero para actulizar el repositorio local
 
-cambio remoto
-
+volvi a escribir cambio remoto para aprender bien la resolución de este conflicto.
