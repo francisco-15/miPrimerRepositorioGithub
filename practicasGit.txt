@@ -10,4 +10,4 @@ Esta es la segunda línea que hago en la rama dev. vamos escribe una más.
 
 tercera línea que hago en la rama dev. Ahora vamos a probocar un conflicto en la segunda línea de main.
 
-probando usar pusho sin prevviamente usar fletch.
+probando usar push sin previamente usar fletch.
