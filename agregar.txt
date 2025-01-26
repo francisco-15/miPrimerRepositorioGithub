@@ -1,3 +1,2 @@
 agrego esto para luego hacer un push y ver que pasa
 Agrego una segunda línea de texto.
-agrege una nueva línea de texto en este fichero en la rama dev
